@@ -4,3 +4,4 @@
 
 >
 Anchukaitis, K.J. and J.E. Smerdon, Progress and uncertainties in global and hemispheric temperature reconstructions of the Common Era, Quaternary Science Reviews, 286, 107537, doi:10.1016/j.quascirev.2022.107537, 2022
+>
