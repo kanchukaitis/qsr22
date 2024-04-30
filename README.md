@@ -1,4 +1,4 @@
-# Figures, data, and code for Anchukaitis and Smerson 2022
+# Figures, data, and code for Anchukaitis and Smerdon 2022
 
 This repository holds the figures, processed data (original data is available at the links provided), and MATLAB code for [Anchukaitis and Smerdon 2022](https://doi.org/10.1016/j.quascirev.2022.107537). 
 
